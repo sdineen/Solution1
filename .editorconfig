@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0025: Use expression body for properties
+csharp_style_expression_bodied_properties = false
+
+# CS8604: Possible null reference argument.
+dotnet_diagnostic.CS8604.severity = none
